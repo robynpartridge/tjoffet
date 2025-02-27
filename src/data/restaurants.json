@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Pub A", "drink": "Beer", "priceSEK": 50, "alcoholPercentage": 5.0 },
+    { "id": 2, "name": "Bar B", "drink": "Cocktail", "priceSEK": 120, "alcoholPercentage": 15.0 }
+  ]
+  
